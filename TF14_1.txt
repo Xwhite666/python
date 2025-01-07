@@ -1,0 +1,4 @@
+123.45 This is a test 56 string
+Some more numbers like 0.89 and -12.3456
+No numbers here! Just text.
+Another line with 100.001 and 3.14
