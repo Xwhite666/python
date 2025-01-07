@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Журнал 1",
+        "Price": 50,
+        "Circulation": 12000
+    },
+    {
+        "Name": "Журнал 2",
+        "Price": 60,
+        "Circulation": 5000
+    },
+    {
+        "Name": "Журнал 3",
+        "Price": 45,
+        "Circulation": 8000
+    },
+    {
+        "Name": "Журнал 4",
+        "Price": 70,
+        "Circulation": 15000
+    },
+    {
+        "Name": "Журнал 5",
+        "Price": 40,
+        "Circulation": 7000
+    }
+]
