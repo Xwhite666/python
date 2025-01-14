@@ -1,6 +1,9 @@
 
-text = "abcdefghijklmnopqrstuvwxyz"
+input_string = input("Введіть рядок: ")
 
-slice_result = text[::5][:4]
+if len(input_string) >= 21:
 
-print(slice_result)
+    result = input_string[:21:5]
+    print("Кожний 5-й символ до 21-го:", result)
+else:
+    print("Рядок занадто короткий для виконання операції.")
